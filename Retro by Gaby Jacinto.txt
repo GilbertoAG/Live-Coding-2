@@ -1,0 +1,8 @@
+1.- Tienes a la mano las instrucciones del ejercicio y eso te permite reisar que paso ya hiciste y cual te falta.
+2.-Podrias ir explicando cada paso para entender que es lo que haces, tanto tu mismo como la persona que observa.
+3.- Cuando se tiene que hacer referencia a id o nombres de variables, hace un copy-paste, lo que hace el codigo menos propenso a errores.
+4.- Divides muy bien el problema lo que te permite realizar cada linea de la instrucccion.
+5.- Cuando algun paso se te dificulto no te quedaste atascado en el sino que continuaste con el resto de los pasos.
+6.- Revisaste el contenido de la API para familiarizarte con ella.
+7.- No haces uso del predictor de JS y eso habla muy bien de tu memoria.
+8.- No se concluyo el ejercicio debido al tiempo asignado
